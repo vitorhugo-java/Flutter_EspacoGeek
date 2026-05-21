@@ -1,5 +1,7 @@
 # EspacoGeekMobile
 
+- **IMPORTANT NOTE:** This project was developed as a practical study of the integration between Spring Boot, GraphQL, and NextJS, and is currently archived to focus on new architectures. Perhaps in the future I will return to working on this project. You are free to use the code as you wish as long as you follow the license.
+
 A Flutter mobile application for Espaço Geek.
 
 <div align="center">
